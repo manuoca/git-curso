@@ -1,0 +1,42 @@
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#37abc8" fill-rule="evenodd">
+  <path d="m95.146 3.0653c-65.089 0.0042773-117.83 52.75-117.84 117.84 0.0037 65.089 52.749 117.89 117.84 117.89 65.088-4e-3 117.89-52.806 117.89-117.89-0.00356-65.088-52.807-117.83-117.89-117.84zm1.1906 5.6679c9.0376 0.12495 18.06 1.3351 26.81 3.6275v6.9716c8.3908 2.281 16.452 5.5958 24.032 9.8626l4.8746-4.8746c7.7544 4.5519 14.98 10.06 21.425 16.324l3.4008 3.4006c5.6816 6.0766 10.647 12.772 14.85 19.951l-4.931 4.9314c4.3324 7.5572 7.7307 15.593 10.089 23.976h6.8582c1.9647 7.612 3.1632 15.388 3.5142 23.239v8.1619c-0.23205 8.3251-1.4851 16.586-3.5708 24.656h-6.915c-2.3042 8.3906-5.6414 16.457-9.919 24.032l4.8177 4.8746c-4.8479 8.303-10.767 15.932-17.571 22.729l-0.73718 0.7925-0.45338 0.39804c-6.3506 6.0656-13.388 11.391-20.972 15.814l-4.8175-4.8746c-7.5572 4.3218-15.653 7.7421-24.033 10.089v6.7449c-9.1254 2.3593-18.465 3.6058-27.886 3.6275-9.5317-0.0356-19.018-1.3173-28.227-3.7407v-6.6883c-8.3906-2.3044-16.457-5.6416-24.033-9.9192l-4.7042 4.648c-16.375-9.6743-30.034-23.345-39.676-39.733l4.7611-4.6478c-4.3214-7.5572-7.6973-15.596-10.032-23.976h-6.6317c-2.4174-9.1806-3.6415-18.629-3.6841-28.113 0.0589-9.4657 1.271-18.904 3.6841-28.057h6.7449c2.3042-8.3688 5.6404-16.416 9.9191-23.976l-4.7611-4.8181c9.6411-16.36 23.217-29.962 39.563-39.619l4.8745 4.7611c7.5572-4.3215 15.596-7.6852 23.976-10.032v-6.8017c8.6869-2.2927 17.652-3.5197 26.64-3.6841zm-2.6642 1.701a110.5 110.5 0 0 0-26.186 3.6275v6.6883a103.96 103.96 0 0 0-23.636 9.8623l-4.7611-4.7045a110.5 110.5 0 0 0-39.053 39.109l4.7611 4.7045a103.96 103.96 0 0 0-9.8057 23.636h-6.6317a110.5 110.5 0 0 0-3.6275 27.547 110.5 110.5 0 0 0 3.6275 27.717h6.5182a103.96 103.96 0 0 0 9.9191 23.636l-4.6476 4.648a110.5 110.5 0 0 0 38.996 39.109l4.6479-4.648a103.96 103.96 0 0 0 23.692 9.7491v6.6314a110.5 110.5 0 0 0 27.773 3.6844 110.5 110.5 0 0 0 27.433-3.5709v-6.6318a103.96 103.96 0 0 0 23.636-9.9188l4.8179 4.7611a110.5 110.5 0 0 0 20.632-15.53l0.45336-0.33914a110.5 110.5 0 0 0 0.67828-0.73718 110.5 110.5 0 0 0 17.287-22.389l-4.7611-4.7611a103.96 103.96 0 0 0 9.7491-23.692h6.8584a110.5 110.5 0 0 0 3.514-24.316v-8.0484a110.5 110.5 0 0 0-3.4574-22.899h-6.8018a103.96 103.96 0 0 0-9.9188-23.636l4.9312-4.8175a110.5 110.5 0 0 0-14.68-19.668l-3.3439-3.3439a110.5 110.5 0 0 0-21.085-16.097l-4.8175 4.8177a103.96 103.96 0 0 0-23.692-9.6922v-6.8584a110.5 110.5 0 0 0-26.413-3.5706zm1.5868 7.9918a102.48 102.48 0 0 1 102.48 102.48 102.48 102.48 0 0 1-102.48 102.48 102.48 102.48 0 0 1-102.48-102.48 102.48 102.48 0 0 1 102.48-102.48z" style="paint-order:stroke fill markers"/>
+  <g transform="matrix(1.244 0 0 1.244 -32.144 -24.107)">
+   <rect transform="rotate(120)" x="45.486" y="-227.49" width="7" height="17" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(127.27)" x="26.412" y="-232.51" width="7" height="17" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(134.55)" x="6.8578" y="-235.06" width="7" height="17" ry="0" opacity=".97" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(141.82)" x="-12.863" y="-235.13" width="7" height="17" ry="0" opacity=".94" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(149.09)" x="-32.434" y="-232.69" width="7" height="17" ry="0" opacity=".91" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(156.36)" x="-51.539" y="-227.8" width="7" height="17" ry="0" opacity=".88" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(163.64)" x="-69.871" y="-220.53" width="7" height="17" ry="0" opacity=".85" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(170.91)" x="-87.135" y="-211" width="7" height="17" ry="0" opacity=".82" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(178.18)" x="-103.05" y="-199.36" width="7" height="17" ry="0" opacity=".79" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(185.45)" x="-117.37" y="-185.79" width="7" height="17" ry="0" opacity=".76" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(192.73)" x="-129.85" y="-170.53" width="7" height="17" ry="0" opacity=".73" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(200)" x="-140.31" y="-153.8" width="7" height="17" ry="0" opacity=".7" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(207.27)" x="-148.56" y="-135.89" width="7" height="17" ry="0" opacity=".67" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(214.55)" x="-154.47" y="-117.08" width="7" height="17" ry="0" opacity=".64" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(221.82)" x="-157.96" y="-97.665" width="7" height="17" ry="0" opacity=".61" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(229.09)" x="-158.96" y="-77.969" width="7" height="17" ry="0" opacity=".58" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(236.36)" x="-157.46" y="-58.305" width="7" height="17" ry="0" opacity=".55" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(243.64)" x="-153.48" y="-38.989" width="7" height="17" ry="0" opacity=".52" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(250.91)" x="-147.09" y="-20.331" width="7" height="17" ry="0" opacity=".49" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(258.18)" x="-138.39" y="-2.6333" width="7" height="17" ry="0" opacity=".46" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-94.55)" x="-127.52" y="13.821" width="7" height="17" ry="0" opacity=".43" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-87.273)" x="-114.65" y="28.767" width="7" height="17" ry="0" opacity=".4" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-80)" x="-99.998" y="41.963" width="7" height="17" ry="0" opacity=".37" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-72.727)" x="-83.79" y="53.199" width="7" height="17" ry="0" opacity=".34" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-65.455)" x="-66.29" y="62.291" width="7" height="17" ry="0" opacity=".31" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-58.182)" x="-47.779" y="69.096" width="7" height="17" ry="0" opacity=".28" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-50.909)" x="-28.557" y="73.502" width="7" height="17" ry="0" opacity=".25" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-43.636)" x="-8.9308" y="75.44" width="7" height="17" ry="0" opacity=".22" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-36.364)" x="10.783" y="74.877" width="7" height="17" ry="0" opacity=".19" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-29.091)" x="30.266" y="71.824" width="7" height="17" ry="0" opacity=".16" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-21.818)" x="49.206" y="66.328" width="7" height="17" ry="0" opacity=".13" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-14.545)" x="67.298" y="58.479" width="7" height="17" ry="0" opacity=".1" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-7.2727)" x="84.251" y="48.403" width="7" height="17" ry="0" opacity=".07" style="paint-order:stroke fill markers"/>
+   <rect x="99.792" y="36.262" width="7" height="17" ry="0" opacity=".04" style="paint-order:stroke fill markers"/>
+   <rect x="174.79" y="21.178" width="18.174" height="22.451" display="none" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>
